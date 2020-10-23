@@ -31,7 +31,7 @@ public class SATSolverTest {
         String currentLocation = System.getProperty("user.dir");
         String directory;
         if (args.length!=0) directory = args[0];
-        else directory = currentLocation + "\\code2d\\src\\main\\java\\sat\\test_2020.cnf";
+        else directory = currentLocation + "\\code2d\\src\\main\\java\\sat\\sat1.cnf";
         File newFile;
         Scanner thisScanner = null;
         try {
