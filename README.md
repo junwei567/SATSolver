@@ -19,5 +19,5 @@ Our SAT Solver uses the Davis-Putnam-Logemann-Loveland (DPLL) algorithm, which i
 ## Authors
 
 - [Tan Xin Yi](https://github.com/xvnyv)
-- David Lim
+- [David Lim] (https://github.com/lyqdavid)
 - Lim Jun Wei
